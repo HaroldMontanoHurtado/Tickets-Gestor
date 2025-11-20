@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Definición del problema
+Tickets-Gestor - Definición del problema.md
+
+# Conocimiento base
+Knowledge_base.json
